@@ -53,8 +53,8 @@ To analyze and compare the performance of **K-Nearest Neighbors (KNN)** and **De
 ## 📊 Results
 | Model | Accuracy |
 |--------|-----------|
-| KNN | ~X% |
-| Decision Tree | ~Y% |
+| KNN | 88% |
+| Decision Tree | 89% |
 
 > (Replace with your actual results after execution.)
 
